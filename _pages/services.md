@@ -12,6 +12,7 @@ author_profile: true
 October 14-18 2024, Salt Lake City, USA
 
 - **CIFRIS 2024**
+September 25-27 2024, Rome, Italy
 
 - **6th Distributed Ledger Technology Workshop (DLT 2024)** 
 May 14-15 2024, Turin, Italy
