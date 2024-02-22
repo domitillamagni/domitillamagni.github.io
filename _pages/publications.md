@@ -98,12 +98,12 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
-Journal of Cryptology, (2024).
+Journal of Cryptology, (2024)\
 [https://eprint.iacr.org/2022/806](https://eprint.iacr.org/2022/8069)
 
 2. **Match me if you can: Matchmaking encryption and its applications**  
 Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi\
-Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4.  
+Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4\ 
 [https://link.springer.com/article/10.1007/s00145-021-09381-4](https://link.springer.com/article/10.1007/s00145-021-09381-4)
 
 1. **Immunization against complete subversion without random oracles**  
