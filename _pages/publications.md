@@ -96,7 +96,7 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 ## Journals
 
-3. ****Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
+3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
 Journal of Cryptology, (2024).
 [https://eprint.iacr.org/2022/806](https://eprint.iacr.org/2022/8069)
