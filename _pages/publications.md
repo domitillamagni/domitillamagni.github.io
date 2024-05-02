@@ -13,11 +13,6 @@ The list of authors is sorted alphabetically. Exceptions are *11*, *6*, *4*, and
 
 ## Preprints
 
-- **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
-Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
-[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
-<sup>*</sup>= Equal contribution
-
 - **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
 [https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
@@ -30,9 +25,16 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 
 ## Conference Proceedings
 
+13. **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
+Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
+International Conference on Machine Learning, 2024. To appear.
+[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
+<sup>*</sup>= Equal contribution
+
 12. **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
-International Conference on Applied Cryptography and Network Security. 2024. To appear.
+International Conference on Applied Cryptography and Network Security, pp. 135-155. Cham: Springer Nature Switzerland, 2024, ISBN: 978-3-031-54770-6.\
+[https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6](https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6)\
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
