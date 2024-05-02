@@ -27,7 +27,7 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 
 13. **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
-International Conference on Machine Learning, 2024. To appear.
+International Conference on Machine Learning, 2024. To appear.\
 [https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
 <sup>*</sup>= Equal contribution
 
