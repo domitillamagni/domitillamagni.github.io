@@ -40,7 +40,7 @@ PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22
 <!-- - IET Information Security -->
 - Theory of Computing Systems
 - Theoretical Computer Science 
-
+- Designs, Codes and Cryptography
 
 ---
 
