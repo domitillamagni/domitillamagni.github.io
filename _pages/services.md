@@ -29,7 +29,7 @@ May 25-26 2023, Bologna, Italy
 
 ### Conferences (sub-reviewer) ####
 
-PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22, TCC 22, CANS 21, PKC 20, CRYPTO 19, CANS 18
+ASIACRYPT 24, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22, TCC 22, CANS 21, PKC 20, CRYPTO 19, CANS 18
 
 ### Journals ####
 

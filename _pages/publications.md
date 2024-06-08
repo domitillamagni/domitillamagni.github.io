@@ -17,19 +17,23 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 Danilo Francati and Daniele Venturi\
 [https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
 
-- **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
-Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
-[https://eprint.iacr.org/2023/1569](https://eprint.iacr.org/2023/1569)
-
 ---
 
 ## Conference Proceedings
 
-13. **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
+14. **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
+Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
+Annual International Cryptology Conference. 2024. To appear.\
+[https://eprint.iacr.org/2023/1569](https://eprint.iacr.org/2023/1569)
+
+13. **Watermarks in the Sand: Impossibility of Strong Watermarking for Language Models**\
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
 International Conference on Machine Learning, 2024. To appear.\
+<sup>*</sup>= Equal contribution\
+\
+Conference version of **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
 [https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
-<sup>*</sup>= Equal contribution
+
 
 12. **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
