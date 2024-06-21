@@ -32,13 +32,13 @@ International Conference on Machine Learning, 2024. To appear.\
 <sup>*</sup>= Equal contribution\
 \
 Conference version of **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
-[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
+[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)
 
 
 12. **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
 International Conference on Applied Cryptography and Network Security, pp. 135-155. Cham: Springer Nature Switzerland, 2024, ISBN: 978-3-031-54770-6.\
-[https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6](https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6)\
+[https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6](https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6)
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
@@ -104,8 +104,8 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 
 3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
-Journal of Cryptology, (2024)\
-[https://eprint.iacr.org/2022/806](https://eprint.iacr.org/2022/8069)
+Journal of Cryptology, 37.24, (2024). DOI: 10.1007/s00145-024-09504-7\
+[https://link.springer.com/article/10.1007/s00145-024-09504-7](https://link.springer.com/article/10.1007/s00145-024-09504-7)
 
 2. **Match me if you can: Matchmaking encryption and its applications**  
 Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi\
