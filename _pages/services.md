@@ -8,22 +8,22 @@ author_profile: true
 
 ## Program Committees ##
 
-- **ACNS 2025**
+- **ACNS 2025**\
 June 23-26 2025, Munich, Germany
 
-- **CCS 2024**  
+- **CCS 2024**\
 October 14-18 2024, Salt Lake City, USA
 
-- **CIFRIS 2024**
+- **CIFRIS 2024**\
 September 25-27 2024, Rome, Italy
 
-- **6th Distributed Ledger Technology Workshop (DLT 2024)** 
+- **6th Distributed Ledger Technology Workshop (DLT 2024)**\
 May 14-15 2024, Turin, Italy
 
-- **CIFRIS 2023**
+- **CIFRIS 2023**\
 December 14-15 2023, Rome, Italy
 
-- **5th Distributed Ledger Technology Workshop (DLT 2023)**  
+- **5th Distributed Ledger Technology Workshop (DLT 2023)**\
 May 25-26 2023, Bologna, Italy
 
 ---
