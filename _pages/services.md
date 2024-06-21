@@ -8,6 +8,9 @@ author_profile: true
 
 ## Program Committees ##
 
+- **ACNS 2025**
+June 23-26 2025, Munich, Germany
+
 - **CCS 2024**  
 October 14-18 2024, Salt Lake City, USA
 
