@@ -109,7 +109,7 @@ Journal of Cryptology, 37.24, (2024). DOI: 10.1007/s00145-024-09504-7\
 
 2. **Match me if you can: Matchmaking encryption and its applications**  
 Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi\
-Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4\ 
+Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4\
 [https://link.springer.com/article/10.1007/s00145-021-09381-4](https://link.springer.com/article/10.1007/s00145-021-09381-4)
 
 1. **Immunization against complete subversion without random oracles**  
