@@ -8,6 +8,9 @@ author_profile: true
 
 ## Program Committees ##
 
+- **USENIX 2025**\
+August 13-15 2025, Seattle, Washington, USA
+
 - **ACNS 2025**\
 June 23-26 2025, Munich, Germany
 

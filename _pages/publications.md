@@ -11,15 +11,16 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ---
 
-## Preprints
-
-- **Evolving Secret Sharing Made Short**\
-Danilo Francati and Daniele Venturi\
-[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
+<!-- ## Preprints -->
 
 ---
 
 ## Conference Proceedings
+
+15. **Evolving Secret Sharing Made Short**\
+Danilo Francati and Daniele Venturi\
+Advances in Cryptology–ASIACRYPT 2024: International Conference on the Theory and Application of Cryptology and Information Security. To appear.\
+[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
 
 14. **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\

@@ -6,6 +6,9 @@ sitemap: false
 author_profile: true
 ---
 
+- **Author & Speaker @ CRYPTO24**, Santa Barbara, California, USA.  
+*Title*: Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation.
+
 - **Talk @ GMU**, Fairfax, Virginia.  
 *Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
 
