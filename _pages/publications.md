@@ -107,7 +107,11 @@ Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 
 24. **Towards a framework of students' co-creation behaviour in higher education institutions**  
 Domitilla Magni, Alberto Pezzi, Demetris Vrontis\
-*JInternational Journal of Managerial and Financial Accounting*, 12(2), pp.119-148 (2020). DOI: 10.1504/IJMFA.2020.109129 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2020.109129)
+*International Journal of Managerial and Financial Accounting*, 12(2), pp.119-148 (2020). DOI: 10.1504/IJMFA.2020.109129 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2020.109129)
+
+25. **Intellectual capital and value co-creation: an empirical analysis from a marketing perspective**  
+Marco Valerio Rossi, Domitilla Magni\
+*Electronic Journal of Knowledge Management*, 15(3), pp.147-158 (2017). eISSN: 1479-4411 [link](https://academic-publishing.org/index.php/ejkm/article/view/1103)
 
 
 ---
@@ -141,6 +145,10 @@ In *Handbook of Research on Disruptive Innovation and Digital Transformation in 
 7. **Exploiting Digital Skills in Higher Education: A Case Study Analysis**
 Domitilla Magni, Beatrice Orlando, Manlio Del Giudice\
 In *IT and the Development of Digital Skills and Competences in Education*, chap. 1, pp.1-20 (2020). IGI-Global. DOI: 10.4018/978-1-7998-4972-8.ch001 [link](https://www.igi-global.com/chapter/exploiting-digital-skills-in-higher-education/265322)
+
+8. **Università e didattica online. La soddisfazione degli studenti durante l'emergenza Covid-19**
+Domitilla Magni, and Alberto Pezzi\
+In *L'Italia ai tempi del Coronavirus. La fase della rinascita, Vol 2*, chap. 28, pp.199-217 (2020). CEDAM. ISBN: 9788813375478  [link](https://www.libreriauniversitaria.it/ricerca/query/l'italia%20ai%20tempi%20del%20covid/reparto/tutti)
 
 ---
 ## Thesis 
