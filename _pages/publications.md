@@ -31,39 +31,39 @@ Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
 
 5. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+*Industrial Marketing Management*, 117, pp.481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
 6. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**  
 Domitilla Magni, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
-*International Marketing Review*, 40(4), pp. 798-826 (2023). DOI: 10.1108/IMR-12-2021-0366 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-12-2021-0366/full/html)
+*International Marketing Review*, 40(4), pp.798-826 (2023). DOI: 10.1108/IMR-12-2021-0366 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-12-2021-0366/full/html)
 
 7. **Knowing what you don’t know: a tertiary study on knowledge management**  
 Roberto Cerchione, Piera Centobelli, Eugenio Oropallo, Domitilla Magni, Elena Borin\
-*Journal of Knowledge Management*, 27(9), pp. 2548-2578 (2023). DOI: 10.1108/JKM-07-2022-0589 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-07-2022-0589/full/html)
+*Journal of Knowledge Management*, 27(9), pp.2548-2578 (2023). DOI: 10.1108/JKM-07-2022-0589 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-07-2022-0589/full/html)
 
 8. **Unveiling the roles of intellectual capital in entrepreneurial ecosystems: evidence from moderate innovative countries: Guest Editorial**  
 Tachia Chin, Manlio Del Giudice, Assunta Di Vaio, Fabio Fiano, Alexeis Garcia-Perez, Niccolò Paoloni, and Domitilla Magni\
-*Journal of Intellectual Capital*, 24(1), pp. 1-9 (2023). DOI: 10.1108/JIC-01-2023-393 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-01-2023-393/full/html)
+*Journal of Intellectual Capital*, 24(1), pp.1-9 (2023). DOI: 10.1108/JIC-01-2023-393 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-01-2023-393/full/html)
 
 9. **Knowledge management in turbulent times: time-based scenario analysis of vaccinations against COVID-19**  
 Francesco Saverio Mennini, Domitilla Magni, Lucia Michela Daniele, and Giampiero Favato\
-*Journal of Knowledge Management*, 26(11), pp. 71-88 (2022). DOI: 10.1108/JKM-09-2021-0710 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html)
+*Journal of Knowledge Management*, 26(11), pp.71-88 (2022). DOI: 10.1108/JKM-09-2021-0710 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html)
 
 10. **Shedding light on the impact of financial literacy for corporate social responsibility during the COVID-19 crisis: managerial and financial perspectives**  
 Gian Paolo Stella, Enrico Maria Cervellati, Domitilla Magni, Valentina Cillo, and Armando Papa\
-*Management Decision*, 60(10), pp. 2801-2823 (2022). DOI: 10.1108/MD-12-2021-1681 [link](https://www.emerald.com/insight/content/doi/10.1108/MD-12-2021-1681/full/html)
+*Management Decision*, 60(10), pp.2801-2823 (2022). DOI: 10.1108/MD-12-2021-1681 [link](https://www.emerald.com/insight/content/doi/10.1108/MD-12-2021-1681/full/html)
 
 11. **Grassroot processes of knowledge sharing to build social innovation capabilities**  
 Monica Fait, Domitilla Magni, Mirko Perano, Massimiliano Farina Briamonte, and Pasquale Sasso\
-*Journal of Knowledge Management*, 27(5), pp. 1390-1408 (2022). DOI: 10.1108/JKM-04-2022-0338 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-04-2022-0338/full/html)
+*Journal of Knowledge Management*, 27(5), pp.1390-1408 (2022). DOI: 10.1108/JKM-04-2022-0338 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-04-2022-0338/full/html)
 
 12. **Defining the relationship between firm’s performance and delisting: Empirical evidence of going private in Europe**  
 Domitilla Magni, Ottorino Morresi, Alberto Pezzi, and Domenico Graziano\
-*Journal of the Knowledge Economy*, 13(3), pp. 2584-2605 (2022). DOI: 10.1007/s13132-021-00806-w [link](https://link.springer.com/article/10.1007/s13132-021-00806-w)
+*Journal of the Knowledge Economy*, 13(3), pp.2584-2605 (2022). DOI: 10.1007/s13132-021-00806-w [link](https://link.springer.com/article/10.1007/s13132-021-00806-w)
 
 13. **A network model approach to enhance knowledge sharing for internationalization readiness of SMEs**  
 Domitilla Magni, Roberto Chierici, Monica Fait, and Kelly Lefebvre\
-*International Marketing Review*, 39(3), pp. 626-652 (2022). DOI: 10.1108/IMR-03-2021-0110 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-03-2021-0110/full/html)
+*International Marketing Review*, 39(3), pp.626-652 (2022). DOI: 10.1108/IMR-03-2021-0110 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-03-2021-0110/full/html)
 
 14. **Evaluating fashion retailers' intellectual capital: key money as a part of customer capital**  
 Fabio Fiano, Jens Mueller, Niccolo Paoloni, Massimiliano Farina Briamonte, and Domitilla Magni\
@@ -71,11 +71,11 @@ Fabio Fiano, Jens Mueller, Niccolo Paoloni, Massimiliano Farina Briamonte, and D
 
 15. **Extending knowledge-based view: Future trends of corporate social entrepreneurship to fight the gig economy challenges**  
 Veronica Scuotto, S Le Loarne Lemaire, Domitilla Magni, and Adnane Maalaoui\
-*Journal of Business Research*, 139, pp. 1111-1122 (2022). DOI: 10.1016/j.jbusres.2021.10.060 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321007876)
+*Journal of Business Research*, 139, pp.1111-1122 (2022). DOI: 10.1016/j.jbusres.2021.10.060 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321007876)
 
 16. **Unpacking the sustainability of sovereign wealth funds. The effect of financial performances on sustainability disclosure**  
 Domenico Graziano, and Domitilla Magni\
-*International Journal of Managerial and Financial Accounting*, 14(2), pp. 157-183 (2022). DOI: 10.1504/IJMFA.2022.122222 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2022.122222)
+*International Journal of Managerial and Financial Accounting*, 14(2), pp.157-183 (2022). DOI: 10.1504/IJMFA.2022.122222 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2022.122222)
 
 17. **Triggering disruptive technology absorptive capacity by CIOs. Explorative research on a micro-foundation lens**  
 Veronica Scuotto, Domitilla Magni, Rosa Palladino, and Melita Nicotra\
@@ -87,11 +87,23 @@ Domitilla Magni, Veronica Scuotto, Alberto Pezzi, and Manlio Del Giudice\
 
 19. **Sustainable open innovation for the agri-food system: Sorghum as healthy food to deal with environmental challenges**  
 Paola Pontieri, Francesco Saverio Mennini, Domitilla Magni, Fabio Fiano, Veronica Scuotto, Armando Papa, Mariarosaria Aletta, and Luigi Del Giudice\
-*British Food Journal*, 124(9), pp. 2649-2672 (2021). DOI: 10.1108/BFJ-07-2021-0732 [link](https://www.emerald.com/insight/content/doi/10.1108/BFJ-07-2021-0732/full/html)
+*British Food Journal*, 124(9), pp.2649-2672 (2021). DOI: 10.1108/BFJ-07-2021-0732 [link](https://www.emerald.com/insight/content/doi/10.1108/BFJ-07-2021-0732/full/html)
 
 20. **Knowledge hiding in socioeconomic settings: matching organizational and environmental antecedents**  
 Francesco Caputo, Domitilla Magni, Armando Papa, Christian Corsi\
 *Journal of Business Research*, 135, pp.19-27 (2021). DOI: 10.1016/j.jbusres.2021.06.012 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321004136)
+
+21. **Students' learning outcomes and satisfaction. An investigation of knowledge transfer during social distancing policies**  
+Domitilla Magni, and Andrea Sestino\
+*International Journal of Learning and Intellectual Capital*, 18(4), pp.339-351 (2021). DOI: 10.1504/IJLIC.2021.118401 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJLIC.2021.118401)
+
+22. **Aligning firm's value system and open innovation: a new framework of business process management beyond the business model innovation**  
+Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Micera\
+*Business Process Management Journal*, 26(5), pp.999-1020 (2020). DOI: 10.1108/BPMJ-05-2020-0231 [link](https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0231/full/html)
+
+23. **Open innovation and patenting activity in health care**  
+Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
+*Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
 
 
 ---
@@ -117,6 +129,10 @@ In *Manuale di rendicontazione sociale*, chap. 2, pp. 15-30 (2022). McGraw-Hill 
 5. **Che cosa è la corporate social responsibility**
 Domitilla Magni, and Stefano Scarcella Prandstraller\
 In *Manuale di responsabilità sociale d’impresa*, chap. 1, pp. 1-29 (2022). McGraw-Hill Education (Italy). ISBN/EAN: 9788838656781 [link](https://www.mheducation.it/manuale-di-responsabilita-sociale-di-impresa-9788838656781-italy)
+
+6. **Immersive Technologies and smart Cities in ASEAN: discovering the future innovation challenges**
+Domitilla Magni, Rossana Piccolo, Veronica Scuotto, Armando Papa, Manlio Del Giudice\
+In *Handbook of Research on Disruptive Innovation and Digital Transformation in Asia*, chap. 4, pp. 50-70 (2021). IGI-Global. DOI: 10.4018/978-1-7998-6477-6.ch004 [link](https://www.igi-global.com/chapter/immersive-technologies-and-smart-cities-in-asean/275906)
 
 ---
 ## Thesis 
