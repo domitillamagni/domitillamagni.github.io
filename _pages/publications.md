@@ -13,15 +13,15 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Journals
 
-1. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\  
+1. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
 Domitilla Magni, Rosa Palladino, Armando Papa, and Patrice Cailleba\
 *Asia Pacific Journal of Management*, To appear. DOI: 10.1007/s10490-022-09813-0 [link](https://link.springer.com/article/10.1007/s10490-022-09813-0)
 
-2. **Chief digital officer and organizational creativity toward digitalization**\  
+2. **Chief digital officer and organizational creativity toward digitalization**\
 Veronica Scuotto, Domitilla Magni, Tzanidis Theofilos, and Manlio Del Giudice\
 *IEEE Transactions on Engineering Management*, 71, pp.13775-13786 (2024). DOI: 10.1109/TEM.2022.3153395 [link](https://ieeexplore.ieee.org/abstract/document/9753676)
 
-3. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\  
+3. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\
 Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
 *Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
@@ -69,7 +69,7 @@ Domitilla Magni, Roberto Chierici, Monica Fait, and Kelly Lefebvre\
 Fabio Fiano, Jens Mueller, Niccolo Paoloni, Massimiliano Farina Briamonte, and Domitilla Magni\
 *Journal of Intellectual Capital*, 23(2), pp. 173-194 (2022). DOI: 10.1108/JIC-12-2019-0287 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-12-2019-0287/full/html)
 
-15. **Extending knowledge-based view: Future trends of corporate social entrepreneurship to fight the gig economy challenges**\  
+15. **Extending knowledge-based view: Future trends of corporate social entrepreneurship to fight the gig economy challenges**\
 Veronica Scuotto, S Le Loarne Lemaire, Domitilla Magni, and Adnane Maalaoui\
 *Journal of Business Research*, 139, pp.1111-1122 (2022). DOI: 10.1016/j.jbusres.2021.10.060 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321007876)
 
@@ -93,7 +93,7 @@ Paola Pontieri, Francesco Saverio Mennini, Domitilla Magni, Fabio Fiano, Veronic
 Francesco Caputo, Domitilla Magni, Armando Papa, Christian Corsi\
 *Journal of Business Research*, 135, pp.19-27 (2021). DOI: 10.1016/j.jbusres.2021.06.012 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321004136)
 
-21. **Students' learning outcomes and satisfaction. An investigation of knowledge transfer during social distancing policies**\  
+21. **Students' learning outcomes and satisfaction. An investigation of knowledge transfer during social distancing policies**\
 Domitilla Magni, and Andrea Sestino\
 *International Journal of Learning and Intellectual Capital*, 18(4), pp.339-351 (2021). DOI: 10.1504/IJLIC.2021.118401 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJLIC.2021.118401)
 
@@ -101,11 +101,11 @@ Domitilla Magni, and Andrea Sestino\
 Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Micera\
 *Business Process Management Journal*, 26(5), pp.999-1020 (2020). DOI: 10.1108/BPMJ-05-2020-0231 [link](https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0231/full/html)
 
-23. **Open innovation and patenting activity in health care**\  
+23. **Open innovation and patenting activity in health care**\
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 *Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
 
-24. **Towards a framework of students' co-creation behaviour in higher education institutions**\  
+24. **Towards a framework of students' co-creation behaviour in higher education institutions**\
 Domitilla Magni, Alberto Pezzi, Demetris Vrontis\
 *International Journal of Managerial and Financial Accounting*, 12(2), pp.119-148 (2020). DOI: 10.1504/IJMFA.2020.109129 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2020.109129)
 
@@ -199,7 +199,7 @@ In *41st Annual ISMS Marketing Science Conference*, INFORMS, p.1 (2019), Univers
 5. **Co-creating pricing policies in hospitality sector: Insights from the case study “my take it**\
 Domitilla Magni, and Alberto Pezzi\
 In *Marketing 4.0: le sfide della multicanalità*. XVI SIM Conference-The Italian Marketing Society, pp.1-5 (2019), Catholic University of Piacenza, Italy\
-[link](https://www.simktg.it/portfolio-item/2019-marketing-4-0-le-sfide-della-multicanalita/)\
+[link](https://www.simktg.it/portfolio-item/2019-marketing-4-0-le-sfide-della-multicanalita/)
 
 6. **Joint ventures success in international market: How emerging-market firms improve value in developed-market firms**\
 Domitilla Magni, and Alberto Pezzi\
