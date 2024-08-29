@@ -116,7 +116,7 @@ Marco Valerio Rossi, Domitilla Magni\
 
 ---
 
-## Book Chapters
+## Chapters
 
 1. **Revolutionizing Healthcare: Unveiling the Transformative Power of Chatbots Through a Systematic Literature Review**
 Domitilla Magni\
@@ -151,8 +151,23 @@ Domitilla Magni, and Alberto Pezzi\
 In *L'Italia ai tempi del Coronavirus. La fase della rinascita, Vol 2*, chap. 28, pp.199-217 (2020). CEDAM. ISBN: 9788813375478  [link](https://www.libreriauniversitaria.it/ricerca/query/l'italia%20ai%20tempi%20del%20covid/reparto/tutti)
 
 ---
-## Thesis 
-- **Kolmogorov Complexity and Cryptography: New Connections and Applications to Space-Demanding Functions**
+
+## Chapters
+
+1. **New Perspectives of Profit Smoothing**
+Domitilla Magni\
+(2019). Springer. DOI: 10.1007/978-3-030-21286-5. [link](https://link.springer.com/book/10.1007/978-3-030-21286-5)
+
+2. **Profit smoothing: Verso un approccio strategico del ruolo del profitto. Implicazioni manageriali**
+Domitilla Magni\
+(2016). Edizioni Accademiche Italiane. ISBN: 3330778296  [link](https://my.edizioni-ai.com/catalog/details//store/it/book/978-3-330-77829-0/profit-smoothing-verso-un-approccio-strategico-del-ruolo-del-profitto)
+
+---
+## Notes 
+
+1. **In science and knowledge we trust: L’impatto della ricerca scientifica ai tempi del covid-19**
+Valentina Cillo, and Domitilla Magni\
+(2019). Springer. DOI: 10.1007/978-3-030-21286-5. [link](https://link.springer.com/book/10.1007/978-3-030-21286-5)
 
 ---
 
