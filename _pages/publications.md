@@ -18,31 +18,38 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 1. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**  
-Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
+**Domitilla Magni**, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
 *Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
 2. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**  
-Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
+Veronica Scuotto, **Domitilla Magni**, Alexeis Garcia-Perez, and Marco Pironti\
 *Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
 
 3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+Theofilos Tzanidis, **Domitilla Magni**, Veronica Scuotto, and Adnane Maalaoui\
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+4. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**  
+Domitilla Magni, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+5. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 *Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
-3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
-Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
-
-3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
-Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
-
-3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+6. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 *Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
 
 
+---
+
+## Book Chapters
+
+1. **Revolutionizing Healthcare: Unveiling the Transformative Power of Chatbots Through a Systematic Literature Review**
+Domitilla Magni\
+In *Design and Development of Emerging Chatbot Technology*, chap. 12, pp. 199-217 (2024). IGI-Global Editor. DOI: 10.4018/979-8-3693-1830-0.ch012 [link](https://www.igi-global.com/chapter/revolutionizing-healthcare/344259)
 
 
 ---
