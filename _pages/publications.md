@@ -19,18 +19,30 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 1. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**  
 Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
-*Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084\
-[link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
+*Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
 2. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**  
 Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
-*Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944\
-[link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
+*Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
 
 3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management* (2021). DOI: 10.1016/j.tcs.2021.01.002  
-[https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190)
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
+*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+
+
+
 
 
 ---
