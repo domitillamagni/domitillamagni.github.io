@@ -224,7 +224,7 @@ In *Proceedings of the 9th European Conference on Intellectual Capital*, ECIC, p
 10. **"Hippocrazie", big data e stili manageriali. verso la definizione di nuove strategie nell’era digitale**\
 Domitilla Magni, Marco Valerio Rossi, and Maria Vittoria Franceschelli\
 In *Management in a Digital World. Decisions, Production, Communication*, XXVIII Sinergie Annual Conference, pp.111-128 (2016), University of Udine, Italy\
-[link](https://www.sijm.it/wp-content/uploads/2021/04/EA-PDF-COMPLETO-UDINE.pdf)
+[link](https://www.sijm.it/wp-content/uploads/2021/04/FP-PDF-COMPLETO-UDINE.pdf)
 
 11. **Co-creazione di valore e territorio: Il caso monumenti aperti**  
 Francesca Cabiddu, Gianluca Vagnani, Monica Pintori, and Domitilla Magni\
