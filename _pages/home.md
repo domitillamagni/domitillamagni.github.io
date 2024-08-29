@@ -8,37 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-**Address:** Department of Computer Science, Aabogade 34, 8200 Aarhus, Denmark  
-**Office:** Nygaard 280    
-**Email:** danilofrancati at gmail.com\
-<a href="https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=en"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
-<a href="https://dblp.org/pid/231/4539.html"><i class="ai ai-dblp ai-lg"></i> dblp </a> - 
-<a href="http://orcid.org/0000-0002-4639-0636"><span style="color: #b2c046;"><i class="ai ai-orcid ai-lg"></i></span> ORCID</a>
+**Address:** Faculty of Economics, Via Matera 18, 00182 Rome, Italy  
+**Office:** ??
+**Email:** domitilla.magni at uniecampus.com\
+<a href="https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
+<a href="https://orcid.org/my-orcid?orcid=0000-0001-5555-6004"><span style="color: #b2c046;"><i class="ai ai-orcid ai-lg"></i></span> ORCID</a>
 
 ---
 
 ### About Me ###
-<!-- Since April 2024, I am a Postdoc at George Mason University. -->
-<!-- Prior to this, I was a Postdoc at Aarhus University -->
-Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
-From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
-I got my Bachelor's and Master's degree in Computer Science at Sapienza University of Rome.
-
-<!-- For a detailed CV, feel free to reach me via email. -->
-
+Since October 2022, I have been serving as an Associate Professor in Management and Marketing at eCampus University ([eCampus website](https://www.uniecampus.it/ateneo/struttura-e-personale/personale-docente/cerca-docenti/index.html?no_cache=1)).
+Prior to this, I held several academic positions:
+    - From May to September 2022, I was appointed as a Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as a Junior Assistant Professor at the same institution.
+    - From May 2021 to February 2022, I was a Junior Assistant Professor at Roma Tre University, where I also worked as a Postdoctoral Researcher from February 2018 to February 2021.
+    - My academic journey began as a Ph.D. student at Sapienza University of Rome, where I studied ([Management, Banking and Commodity Sciences] (https://phd.uniroma1.it/web/MANAGEMENT,-BANKING-AND-COMMODITY-SCIENCES_nD3518_EN.aspx)) from August 2014 to September 2017 
 
 ### Research Interests ###
-My research interests are theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
-I am also interested in blockchain and privacy-preserving machine learning.
+My research interests focuses on Innovation and Technology Management, Sustainability, and Knowledge Management.
+I am also interested in Entrepreneurship and Open Innovation.
 
-### Grants ###
+### Visiting Professor ###
+Throughout my academic career, I have had the privilege of serving as a Visiting Professor and Visiting Researcher at several prestigious institutions around the world, including:
+- South-Western University of Finance and Economics (China), 2017
+- Montpellier Business School (France), 2018-2020
+- New York University (USA), 2019 
+- La Salle University (Mexico), 2020
+- Universidad Panamericana (Mexico), 2020-2024
 
-Protocol Labs, RFP-009 on Proofs of Space and Useful Space, Principal Investigator.
+### Certifications ###
+**Publons Academy peer reviewed certificate**. Peer review certification for papers published in Web of Science (WoS).
+**HSK4 Chinese Certification**. Chinese language certification, level B2. Confucius Institute of Rome. -->
 
-<!-- # News # -->
-
-<!-- - I will serve on the PC of [DLT 2024](). -->
-
-<!-- - Our paper ***Non-malleable Fuzzy Extractors*** has been accepted at ACNS 2024! -->
-
-<!-- - Our [paper](https://arxiv.org/abs/2311.04378) on the ***"Impossibility of Strong Watermarking for Generative Models"*** is out! Check also this [post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)!  -->
