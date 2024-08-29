@@ -211,15 +211,10 @@ Domitilla Magni, Alberto Pezzi, and Luca Petruzzellis\
 In *I percorsi identitari nel Marketing*. XV SIM Conference-The Italian Marketing Society, pp.1-5 (2018), University of Bari, Italy\
 [link](https://www.simktg.it/portfolio-item/2018-i-percorsi-identitari-nel-marketing/)
 
-8. **Equity crowdfunding: How dynamic capabilities matters for the implementation of a successful project**\
+8. **How dynamic capabilities matter for the implementation of a successful equity crowdfunding campaign**\
 Nicola Del Sarto, and Domitilla Magni\
-In *Cybernetics and Systems*, Social and Business Decisions, WOSC, Routledge, PP.1-3 (2018), University of Rome La Sapienza, Italy\
- [link](https://www.routledge.com/Cybernetics-and-Systems-Social-and-Business-Decisions/Barile-Espejo-Perko-Saviano/p/book/9780367663247?gad_source=1&gclid=CjwKCAjwuMC2BhA7EiwAmJKRrHhBO7BLQHS8F4PA70We3LNnndYhOrOKD6j-VEiWjPqMX9eDdZ2eWRoCKUgQAvD_BwE)
-
-6. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency** 
-Dario Pasquini, Danilo Francati, and Giuseppe Ateniese  
-Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, 2022, pp. 2429-2443, ISBN 978-1-4503-9450-5  
-[https://dl.acm.org/doi/10.1145/3548606.3560557](https://dl.acm.org/doi/10.1145/3548606.3560557)
+In *Cybernetics and Systems*, Social and Business Decisions, World Organisation of Systems and Cybernetics (WOSC), Routledge pp.1-3 (2018), University of Rome La Sapienza, Italy\
+[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429486982-22/dynamic-capabilities-matter-implementation-successful-equity-crowdfunding-campaign-nicola-del-sarto-domitilla-magni)
 
 5. **Identity-Based Matchmaking Encryption without Random Oracles**  
 Danilo Francati, Alessio Guidi, Luigi Russo, and Daniele Venturi  
