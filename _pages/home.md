@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**Address:** Faculty of Economics, Via Matera 18, 00182 Rome, Italy  
-**Office:** ??
+**Address:** Faculty of Economics, Via Matera 18, 00182 Rome, Italy\
 **Email:** domitilla.magni at uniecampus.com\
 <a href="https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
+<a href="https://www.linkedin.com/in/domitilla-magni-75b081161/"><i class="ai ai-linkedin ai-lg"></i> Linkedin</a> - 
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-5555-6004"><span style="color: #b2c046;"><i class="ai ai-orcid ai-lg"></i></span> ORCID</a>
 
 ---
@@ -19,9 +19,9 @@ redirect_from:
 ### About Me ###
 Since October 2022, I have been serving as an Associate Professor in Management and Marketing at eCampus University ([eCampus website](https://www.uniecampus.it/ateneo/struttura-e-personale/personale-docente/cerca-docenti/index.html?no_cache=1)).
 Prior to this, I held several academic positions:
-    - From May to September 2022, I was appointed as a Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as a Junior Assistant Professor at the same institution.
-    - From May 2021 to February 2022, I was a Junior Assistant Professor at Roma Tre University, where I also worked as a Postdoctoral Researcher from February 2018 to February 2021.
-    - My academic journey began as a Ph.D. student at Sapienza University of Rome, where I studied ([Management, Banking and Commodity Sciences](https://phd.uniroma1.it/web/MANAGEMENT,-BANKING-AND-COMMODITY-SCIENCES_nD3518_EN.aspx)) from August 2014 to September 2017 
+- From May to September 2022, I was appointed as a Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as a Junior Assistant Professor at the same institution.
+- From May 2021 to February 2022, I was a Junior Assistant Professor at Roma Tre University, where I also worked as a Postdoctoral Researcher from February 2018 to February 2021.
+- My academic journey began as a Ph.D. student at Sapienza University of Rome, where I studied ([Management, Banking and Commodity Sciences](https://phd.uniroma1.it/web/MANAGEMENT,-BANKING-AND-COMMODITY-SCIENCES_nD3518_EN.aspx)) from August 2014 to September 2017 
 
 ### Research Interests ###
 My research interests focuses on Innovation and Technology Management, Sustainability, and Knowledge Management.
