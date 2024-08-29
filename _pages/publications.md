@@ -216,10 +216,10 @@ Nicola Del Sarto, and Domitilla Magni\
 In *Cybernetics and Systems*, Social and Business Decisions, World Organisation of Systems and Cybernetics (WOSC), Routledge pp.1-3 (2018), University of Rome La Sapienza, Italy\
 [link](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429486982-22/dynamic-capabilities-matter-implementation-successful-equity-crowdfunding-campaign-nicola-del-sarto-domitilla-magni)
 
-5. **Identity-Based Matchmaking Encryption without Random Oracles**  
-Danilo Francati, Alessio Guidi, Luigi Russo, and Daniele Venturi  
-International Conference on Cryptology in India. Springer, Cham. 2021, pp. 415-435, Lecture Notes in Computer Science 13143, ISBN 978-3-030-92518-8  
-[https://link.springer.com/chapter/10.1007/978-3-030-92518-5_19](https://link.springer.com/chapter/10.1007/978-3-030-92518-5_19)
+9. **Investigating intellectual capital role in value co-creation firms’ activities: An exploratory analysis**  
+Marco Valerio Rossi, and Domitilla Magni\
+In *Proceedings of the 9th European Conference on Intellectual Capital*, ECIC, pp.269–278 (2017), University of Lisbon, Portugal\
+[link](https://www.proceedings.com/content/034/034504webtoc.pdf)
 
 4. **Audita: A Blockchain-based Auditing Framework for Off-chain Storage**  
 Danilo Francati, Giuseppe Ateniese, Abdoulaye Faye, Andrea Maria Milazzo, Angelo Massimo Perillo, Luca Schiatti, and Giuseppe Giordano  
