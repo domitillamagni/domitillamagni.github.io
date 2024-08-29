@@ -81,17 +81,17 @@ Domenico Graziano, and Domitilla Magni\
 Veronica Scuotto, Domitilla Magni, Rosa Palladino, and Melita Nicotra\
 *Technological Forecasting and Social Change*, 174 (2022). DOI: 10.1016/j.techfore.2021.121234 [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162521006673)
 
-15. **Extending knowledge-based view: Future trends of corporate social entrepreneurship to fight the gig economy challenges**  
-Veronica Scuotto, S Le Loarne Lemaire, Domitilla Magni, and Adnane Maalaoui\
-*Journal of Business Research*, 139, pp. 1111-1122 (2022). DOI: 10.1016/j.jbusres.2021.10.060 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321007876)
+18. **Employees’ acceptance of wearable devices: Towards a predictive model**  
+Domitilla Magni, Veronica Scuotto, Alberto Pezzi, and Manlio Del Giudice\
+*Technological Forecasting and Social Change*, 172 (2021). DOI: 10.1016/j.techfore.2021.121022 [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162521004546)
 
-16. **Unpacking the sustainability of sovereign wealth funds. The effect of financial performances on sustainability disclosure**  
-Domenico Graziano, and Domitilla Magni\
-*International Journal of Managerial and Financial Accounting*, 14(2), pp. 157-183 (2022). DOI: 10.1504/IJMFA.2022.122222 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2022.122222)
+19. **Sustainable open innovation for the agri-food system: Sorghum as healthy food to deal with environmental challenges**  
+Paola Pontieri, Francesco Saverio Mennini, Domitilla Magni, Fabio Fiano, Veronica Scuotto, Armando Papa, Mariarosaria Aletta, and Luigi Del Giudice\
+*British Food Journal*, 124(9), pp. 2649-2672 (2021). DOI: 10.1108/BFJ-07-2021-0732 [link](https://www.emerald.com/insight/content/doi/10.1108/BFJ-07-2021-0732/full/html)
 
-17. **Triggering disruptive technology absorptive capacity by CIOs. Explorative research on a micro-foundation lens**  
-Veronica Scuotto, Domitilla Magni, Rosa Palladino, and Melita Nicotra\
-*Technological Forecasting and Social Change*, 174 (2022). DOI: 10.1016/j.techfore.2021.121234 [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162521006673)
+20. **Knowledge hiding in socioeconomic settings: matching organizational and environmental antecedents**  
+Francesco Caputo, Domitilla Magni, Armando Papa, Christian Corsi\
+*Journal of Business Research*, 135, pp.19-27 (2021). DOI: 10.1016/j.jbusres.2021.06.012 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321004136)
 
 
 ---
