@@ -105,6 +105,10 @@ Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Mi
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 *Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
 
+24. **Towards a framework of students' co-creation behaviour in higher education institutions**  
+Domitilla Magni, Alberto Pezzi, Demetris Vrontis\
+*JInternational Journal of Managerial and Financial Accounting*, 12(2), pp.119-148 (2020). DOI: 10.1504/IJMFA.2020.109129 [link](https://www.inderscienceonline.com/doi/abs/10.1504/IJMFA.2020.109129)
+
 
 ---
 
@@ -124,15 +128,19 @@ In *Intelligenze Artificiali e Aumentate. Elementi di Economia e Management*, ch
 
 4. **Il processo di rendicontazione sociale**
 Domitilla Magni, and Stefano Scarcella Prandstraller\
-In *Manuale di rendicontazione sociale*, chap. 2, pp. 15-30 (2022). McGraw-Hill Education (Italy). ISBN/EAN: 9788823838864 [link](https://www.mheducation.it/manuale-di-rendicontazione-sociale-9788838657177-italy)
+In *Manuale di rendicontazione sociale*, chap. 2, pp.15-30 (2022). McGraw-Hill Education (Italy). ISBN/EAN: 9788823838864 [link](https://www.mheducation.it/manuale-di-rendicontazione-sociale-9788838657177-italy)
 
 5. **Che cosa è la corporate social responsibility**
 Domitilla Magni, and Stefano Scarcella Prandstraller\
-In *Manuale di responsabilità sociale d’impresa*, chap. 1, pp. 1-29 (2022). McGraw-Hill Education (Italy). ISBN/EAN: 9788838656781 [link](https://www.mheducation.it/manuale-di-responsabilita-sociale-di-impresa-9788838656781-italy)
+In *Manuale di responsabilità sociale d’impresa*, chap. 1, pp.1-29 (2022). McGraw-Hill Education (Italy). ISBN/EAN: 9788838656781 [link](https://www.mheducation.it/manuale-di-responsabilita-sociale-di-impresa-9788838656781-italy)
 
 6. **Immersive Technologies and smart Cities in ASEAN: discovering the future innovation challenges**
 Domitilla Magni, Rossana Piccolo, Veronica Scuotto, Armando Papa, Manlio Del Giudice\
-In *Handbook of Research on Disruptive Innovation and Digital Transformation in Asia*, chap. 4, pp. 50-70 (2021). IGI-Global. DOI: 10.4018/978-1-7998-6477-6.ch004 [link](https://www.igi-global.com/chapter/immersive-technologies-and-smart-cities-in-asean/275906)
+In *Handbook of Research on Disruptive Innovation and Digital Transformation in Asia*, chap. 4, pp.50-70 (2021). IGI-Global. DOI: 10.4018/978-1-7998-6477-6.ch004 [link](https://www.igi-global.com/chapter/immersive-technologies-and-smart-cities-in-asean/275906)
+
+7. **Exploiting Digital Skills in Higher Education: A Case Study Analysis**
+Domitilla Magni, Beatrice Orlando, Manlio Del Giudice\
+In *IT and the Development of Digital Skills and Competences in Education*, chap. 1, pp.1-20 (2020). IGI-Global. DOI: 10.4018/978-1-7998-4972-8.ch001 [link](https://www.igi-global.com/chapter/exploiting-digital-skills-in-higher-education/265322)
 
 ---
 ## Thesis 
