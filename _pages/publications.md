@@ -201,27 +201,22 @@ Domitilla Magni, and Alberto Pezzi\
 In *Marketing 4.0: le sfide della multicanalità*. XVI SIM Conference-The Italian Marketing Society, pp.1-5 (2019), Catholic University of Piacenza, Italy\
 [link](https://www.simktg.it/portfolio-item/2019-marketing-4-0-le-sfide-della-multicanalita/)\
 
-10. **Registered (Inner-Product) Functional Encryption**\
-Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security, Proceedings (pp. 99-133). Springer Nature Singapore, 2024, ISBN:978-981-99-8733-7\
-[https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4](https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4)
+6. **Joint ventures success in international market: How emerging-market firms improve value in developed-market firms**\
+Domitilla Magni, and Alberto Pezzi\
+In *Corporate Governance: Search for the Advanced Practices*, VIRTUSS, p.91, (2019) University of RomaTre, Italy\
+[link](https://virtusinterpress.org/-CONTENTS-645-.html)
 
-9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
-Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi   
-Advances in Cryptology–EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings, Part III. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-30620-4  
-[https://link.springer.com/chapter/10.1007/978-3-031-30620-4_19](https://link.springer.com/chapter/10.1007/978-3-031-30620-4_19)
+7. **Indagine sul comportamento di co-creazione degli studenti: Il ruolo della web communication e delle tecnologie digitali come driver per l’università 4.0. una review sistematica della letteratura**\
+Domitilla Magni, Alberto Pezzi, and Luca Petruzzellis\
+In *I percorsi identitari nel Marketing*. XV SIM Conference-The Italian Marketing Society, pp.1-5 (2018), University of Bari, Italy\
+[link](https://www.simktg.it/portfolio-item/2018-i-percorsi-identitari-nel-marketing/)
 
-8. **Structure-Preserving Compilers from New Notions of Obfuscations**  
-Matteo Campanelli, Danilo Francati, and Claudio Orlandi  
-26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings, Part II. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-31371-4  
-[https://link.springer.com/chapter/10.1007/978-3-031-31371-4_23](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_23)
+8. **Equity crowdfunding: How dynamic capabilities matters for the implementation of a successful project**\
+Nicola Del Sarto, and Domitilla Magni\
+In *Cybernetics and Systems*, Social and Business Decisions, WOSC, Routledge, PP.1-3 (2018), University of Rome La Sapienza, Italy\
+ [link](https://www.routledge.com/Cybernetics-and-Systems-Social-and-Business-Decisions/Barile-Espejo-Perko-Saviano/p/book/9780367663247?gad_source=1&gclid=CjwKCAjwuMC2BhA7EiwAmJKRrHhBO7BLQHS8F4PA70We3LNnndYhOrOKD6j-VEiWjPqMX9eDdZ2eWRoCKUgQAvD_BwE)
 
-7. **Verifiable Capacity-bound Functions: A New Primitive from Kolmogorov Complexity (Revisiting space-based security in the adaptive setting)**  
-Giuseppe Ateniese, Long Chen, Danilo Francati, Dimitrios Papadopoulos, and Qiang Tang  
-26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings, Part II. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-31371-4  
-[https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3)
-
-6. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency**  
+6. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency** 
 Dario Pasquini, Danilo Francati, and Giuseppe Ateniese  
 Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, 2022, pp. 2429-2443, ISBN 978-1-4503-9450-5  
 [https://dl.acm.org/doi/10.1145/3548606.3560557](https://dl.acm.org/doi/10.1145/3548606.3560557)
