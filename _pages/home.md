@@ -36,6 +36,6 @@ Throughout my academic career, I have had the privilege of serving as a Visiting
 - Universidad Panamericana (Mexico), 2020-2024
 
 ### Certifications ###
-**Publons Academy peer reviewed certificate**. Peer review certification for papers published in Web of Science (WoS).\
-**HSK4 Chinese Certification**. Chinese language certification, level B2. Confucius Institute of Rome.
+- Publons Academy peer reviewed certificate**. Peer review certification for papers published in Web of Science (WoS).\
+- HSK4 Chinese Certification**. Chinese language certification, level B2. Confucius Institute of Rome.
 
