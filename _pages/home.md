@@ -13,6 +13,9 @@ redirect_from:
 <a href="https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
 <a href="https://www.linkedin.com/in/domitilla-magni-75b081161/"><i class="ai ai-Linkedin ai-lg"></i> Linkedin</a> - 
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-5555-6004"><span style="color: #b2c046;"><i class="ai ai-orcid ai-lg"></i></span> ORCID</a>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 
 ---
 
@@ -36,6 +39,6 @@ Throughout my academic career, I have had the privilege of serving as a Visiting
 - Universidad Panamericana (Mexico), 2020-2024
 
 ### Certifications ###
-- Publons Academy peer reviewed certificate**. Peer review certification for papers published in Web of Science (WoS).\
-- HSK4 Chinese Certification**. Chinese language certification, level B2. Confucius Institute of Rome.
+- Publons Academy peer reviewed certificate. Peer review certification for papers published in Web of Science (WoS).\
+- HSK4 Chinese Certification. Chinese language certification, level B2. Confucius Institute of Rome.
 

@@ -6,8 +6,8 @@ sitemap: false
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ) and [dblp](https://dblp.org/pid/231/4539.html).\
-The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4*, and *3* (sorted by contribution).
+I have authored a variety of books, book chapters, and articles published in international journals, focusing on diverse topics within management, innovation, and energy research.\
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao)
 
 ---
 
@@ -15,7 +15,31 @@ The list of authors is sorted alphabetically. Exceptions are *13*, *11*, *6*, *4
 
 ---
 
-## Conference Proceedings
+## Journals
+
+1. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**  
+Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
+*Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084\
+[link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
+
+2. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**  
+Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
+*Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944\
+[link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
+
+3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
+Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
+*Industrial Marketing Management* (2021). DOI: 10.1016/j.tcs.2021.01.002  
+[https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190)
+
+
+---
+## Thesis 
+- **Kolmogorov Complexity and Cryptography: New Connections and Applications to Space-Demanding Functions**
+
+---
+
+## Conference Proceedings 
 
 15. **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
@@ -98,27 +122,3 @@ Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi
 Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731, Lecture Notes in Computer Science 11693, ISBN 978-3-030-26950-0  
 [https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24](https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24)
 {: reversed="reversed"}
-
----
-
-## Journals
-
-3. **Multi-key and Multi-input Predicate encryption (for Conjunctions) from Learning with Errors**  
-Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi\
-Journal of Cryptology, 37.24, (2024). DOI: 10.1007/s00145-024-09504-7\
-[https://link.springer.com/article/10.1007/s00145-024-09504-7](https://link.springer.com/article/10.1007/s00145-024-09504-7)
-
-2. **Match me if you can: Matchmaking encryption and its applications**  
-Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi\
-Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4\
-[https://link.springer.com/article/10.1007/s00145-021-09381-4](https://link.springer.com/article/10.1007/s00145-021-09381-4)
-
-1. **Immunization against complete subversion without random oracles**  
-Giuseppe Ateniese, Danilo Francati, Bernardo Magri, and Daniele Venturi  
-Theoretical Computer Science. 2021. DOI: 10.1016/j.tcs.2021.01.002  
-[https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190)
-{: reversed="reversed"}
-
----
-## Thesis 
-- **Kolmogorov Complexity and Cryptography: New Connections and Applications to Space-Demanding Functions**
