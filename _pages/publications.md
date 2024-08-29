@@ -18,29 +18,40 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ## Journals
 
 1. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**  
-**Domitilla Magni**, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
+Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
 *Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
 2. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**  
-Veronica Scuotto, **Domitilla Magni**, Alexeis Garcia-Perez, and Marco Pironti\
+Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
 *Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
 
 3. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
-Theofilos Tzanidis, **Domitilla Magni**, Veronica Scuotto, and Adnane Maalaoui\
+Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 *Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
 4. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**  
 Domitilla Magni, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+*International Marketing Review*, 40(4), pp. 798-826 (2023). DOI: 10.1108/IMR-12-2021-0366 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-12-2021-0366/full/html)
 
-5. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
-Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+5. **Knowing what you don’t know: a tertiary study on knowledge management**  
+Roberto Cerchione, Piera Centobelli, Eugenio Oropallo, Domitilla Magni, Elena Borin\
+*Journal of Knowledge Management*, 27(9), pp. 2548-2578 (2023). DOI: 10.1108/JKM-07-2022-0589 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-07-2022-0589/full/html)
 
-6. **B2B green marketing strategies for European firms: Implications for people, planet and profit**  
-Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp. 481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+6. **Unveiling the roles of intellectual capital in entrepreneurial ecosystems: evidence from moderate innovative countries: Guest Editorial**  
+Tachia Chin, Manlio Del Giudice, Assunta Di Vaio, Fabio Fiano, Alexeis Garcia-Perez, Niccolò Paoloni, and Domitilla Magni\
+*Journal of Intellectual Capital*, 24(1), pp. 1-9 (2023). DOI: 10.1108/JIC-01-2023-393 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-01-2023-393/full/html)
 
+7. **Knowledge management in turbulent times: time-based scenario analysis of vaccinations against COVID-19**  
+Francesco Saverio Mennini, Domitilla Magni, Lucia Michela Daniele, and Giampiero Favato\
+*Journal of Knowledge Management*, 26(11), pp. 71-88 (2022). DOI: 10.1108/JKM-09-2021-0710 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html)
+
+8. **Shedding light on the impact of financial literacy for corporate social responsibility during the COVID-19 crisis: managerial and financial perspectives**  
+Gian Paolo Stella, Enrico Maria Cervellati, Domitilla Magni, Valentina Cillo, and Armando Papa\
+*Management Decision*, 60(10), pp. 2801-2823 (2022). DOI: 10.1108/MD-12-2021-1681 [link](https://www.emerald.com/insight/content/doi/10.1108/MD-12-2021-1681/full/html)
+
+9. **Grassroot processes of knowledge sharing to build social innovation capabilities**  
+Monica Fait, Domitilla Magni, Mirko Perano, Massimiliano Farina Briamonte, and Pasquale Sasso\
+*Journal of Knowledge Management*, 27(5), pp. 1390-1408 (2022). DOI: 10.1108/JKM-04-2022-0338 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-04-2022-0338/full/html)
 
 
 ---
@@ -51,6 +62,13 @@ Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 Domitilla Magni\
 In *Design and Development of Emerging Chatbot Technology*, chap. 12, pp. 199-217 (2024). IGI-Global Editor. DOI: 10.4018/979-8-3693-1830-0.ch012 [link](https://www.igi-global.com/chapter/revolutionizing-healthcare/344259)
 
+2. **Enhancing Network Theory: Towards an Innovative Framework of Blockchain in Logistic and Supply Chain Management**
+Alessia Munnia, Francesco Russo, and Domitilla Magni\
+In *Technology, Business and Sustainable Development*, chap. 8, pp. 102-117 (2023). Routledge. DOI: 10.4324/9781003293187 [link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003293187-8/enhancing-network-theory-alessia-munnia-francesco-russo-domitilla-magni?context=ubx&refId=a5c47492-3da3-42a1-9686-944ab2f30f08)
+
+3. **Come cambia il Marketing con l'AI**
+Marco Pironti, and Domitilla Magni\
+In *Intelligenze Artificiali e Aumentate. Elementi di Economia e Management*, chap. 7, pp. 157-171 (2022). Egea. ISBN/EAN: 9788823838864 [link](https://www.egeaeditore.it/ita/prodotti/management/intelligenze-artificiali-e-aumentate.aspx)
 
 ---
 ## Thesis 
