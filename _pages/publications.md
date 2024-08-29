@@ -216,30 +216,17 @@ Nicola Del Sarto, and Domitilla Magni\
 In *Cybernetics and Systems*, Social and Business Decisions, World Organisation of Systems and Cybernetics (WOSC), Routledge pp.1-3 (2018), University of Rome La Sapienza, Italy\
 [link](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429486982-22/dynamic-capabilities-matter-implementation-successful-equity-crowdfunding-campaign-nicola-del-sarto-domitilla-magni)
 
-9. **Investigating intellectual capital role in value co-creation firms’ activities: An exploratory analysis**  
+9. **Investigating intellectual capital role in value co-creation firms’ activities: An exploratory analysis**\
 Marco Valerio Rossi, and Domitilla Magni\
 In *Proceedings of the 9th European Conference on Intellectual Capital*, ECIC, pp.269–278 (2017), University of Lisbon, Portugal\
 [link](https://www.proceedings.com/content/034/034504webtoc.pdf)
 
-4. **Audita: A Blockchain-based Auditing Framework for Off-chain Storage**  
-Danilo Francati, Giuseppe Ateniese, Abdoulaye Faye, Andrea Maria Milazzo, Angelo Massimo Perillo, Luca Schiatti, and Giuseppe Giordano  
-Proceedings of the 9th International Workshop on Security in Blockchain and Cloud Computing. 2021. ISBN 978-1-4503-8405-6  
-[https://dl.acm.org/doi/abs/10.1145/3457977.3460293](https://dl.acm.org/doi/abs/10.1145/3457977.3460293)
+10. **"Hippocrazie", big data e stili manageriali. verso la definizione di nuove strategie nell’era digitale**\
+Domitilla Magni, Marco Valerio Rossi, and Maria Vittoria Franceschelli\
+In *Management in a Digital World. Decisions, Production, Communication*, XXVIII Sinergie Annual Conference, pp.111-128 (2016), University of Udine, Italy\
+[link](https://www.sijm.it/wp-content/uploads/2021/04/EA-PDF-COMPLETO-UDINE.pdf)
 
-3. **Arcula: A secure hierarchical deterministic wallet for multi-asset blockchains**  
-Adriano Di Luzio, Danilo Francati, and Giuseppe Ateniese  
-International Conference on Cryptology and Network Security. Springer, Cham, 2020. pp. 323-343, Lecture Notes in Computer Science 12579, ISBN 978-3-030-65410-8  
-[https://link.springer.com/chapter/10.1007/978-3-030-65411-5_16](https://link.springer.com/chapter/10.1007/978-3-030-65411-5_16)
-
-2. **Public immunization against complete subversion without random oracles**.  
-Giuseppe Ateniese, Danilo Francati, Bernardo Magri, and Daniele Venturi  
-International Conference on Applied Cryptography and Network Security. Springer. 2019, pp. 465–485, Lecture Notes in Computer Science 11464, ISBN 978-3-030-21567-5  
-[https://link.springer.com/chapter/10.1007/978-3-030-21568-2_23](https://link.springer.com/chapter/10.1007/978-3-030-21568-2_23)
-
-1. **Match me if you can: Matchmaking encryption and its applications**  
-Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi  
-Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731, Lecture Notes in Computer Science 11693, ISBN 978-3-030-26950-0  
-[https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24](https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24)
-{: reversed="reversed"}
-
-## Preprints
+11. **Co-creazione di valore e territorio: Il caso monumenti aperti**  
+Francesca Cabiddu, Gianluca Vagnani, Monica Pintori, and Domitilla Magni\
+In *Heritage, management e impresa: quali sinergie?*, Cueim Comunicazione, pp.337-351 (2015), University of Molise, Italy\
+[link](https://www.sijm.it/wp-content/uploads/2021/04/CP-TERMOLI-PARTE-I.pdf)
