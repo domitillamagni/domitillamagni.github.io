@@ -6,36 +6,36 @@ sitemap: false
 author_profile: true
 ---
 
+## Editorial Board ##
+
+- **European Management Journal**\
+IF: 7.5, Q1.
+
+
 ## Program Committees ##
 
-- **USENIX 2025**\
-August 13-15 2025, Seattle, Washington, USA
+- **24th International Conference on Digital Intelligence Technology and Innovative Design**\
+September 2024, Zhengzhou, China
 
-- **ACNS 2025**\
-June 23-26 2025, Munich, Germany
+- **International Conference on Digital Transformation and Innovation Management**\
+July 2024, Budapest, Hungary
 
-- **CCS 2024**\
-October 14-18 2024, Salt Lake City, USA
+- **5th IEEE International Conference on Technology Management, Operations and Decisions**\
+November 2023, Rabat, Morocco
 
-- **CIFRIS 2024**\
-September 25-27 2024, Rome, Italy
+- **4th IEEE International Conference on Technology Management, Operations and Decisions**\
+November 2022, Marrakech, Morocco
 
-- **6th Distributed Ledger Technology Workshop (DLT 2024)**\
-May 14-15 2024, Turin, Italy
+- **3rd IEEE International Conference on Technology Management, Operations and Decisions**\
+November 2021, Marrakech, Morocco
 
-- **CIFRIS 2023**\
-December 14-15 2023, Rome, Italy
-
-- **5th Distributed Ledger Technology Workshop (DLT 2023)**\
-May 25-26 2023, Bologna, Italy
+- **41st Annual ISMS Marketing Science Conference – INFORMS, Society for Marketing Science**\
+In collaboration with NYU (New York University)
+June 2019, Rome, Italy
 
 ---
 
 ## Reviewer ##
-
-### Conferences (sub-reviewer) ####
-
-ASIACRYPT 24, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22, TCC 22, CANS 21, PKC 20, CRYPTO 19, CANS 18
 
 ### Journals ####
 
@@ -50,9 +50,31 @@ ASIACRYPT 24, PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA
 
 ---
 
-## Other ##
+## Session Chair ##
 
-- **Session Chair @ TPMPC 23**, Aarhus University, Aarhus, Denmark
+- **Lead track chair @ 5th IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “Business transformation”
+November 2023, Rabat, Morocco
 
-- **Session Chair @ CCS 22**, Los Angeles, CA  
-*Track*: Advanced Public Key Primitives
+- **Lead track chair @ 5th IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “Digital Marketing”
+November 2023, Rabat, Morocco
+
+- **Lead track chair @ 5th IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “Strategic Innovation”
+November 2023, Rabat, Morocco
+
+- **Track chair @ 5th IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “New Business Models”
+November 2023, Rabat, Morocco
+
+- **Lead track chair @ 4th IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “Digitalisation and SCM 4.0”
+November 2022, Marrakech, Morocco
+
+- **Steering Discussant @ 7th Workshop on Gender Issue, When The Crisis Becomes An Opportunity**, 
+April 2022, Rome, Italy
+
+- **Lead track chair @ 3rd IEEE International Conference on Technology Management, Operations and Decisions**, 
+Track: “Strategic Innovation”
+November 2021, Marrakech, Morocco
