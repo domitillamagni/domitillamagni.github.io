@@ -7,9 +7,19 @@ author_profile: true
 ---
 
 ## Editorial Board ##
+ongoing
 
 - **European Management Journal**\
-IF: 7.5, Q1.
+IF(2023): 7.5, Q1
+
+- **Electronic Commerce Research**\
+IF(2023): 3.7, Q1
+
+- **Energy Research & Social Science**\
+IF(2023): 6.9, Q1
+
+till 2024
+
 
 
 ## Program Committees ##

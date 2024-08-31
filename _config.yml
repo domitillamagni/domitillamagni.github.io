@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danilo Francati"
+  name             : "Domitilla Magni"
   avatar           : "picture.jpg"
-  bio              : "Postdoc @ Aarhus University"
+  bio              : "Associate Professor @ Catholic University of Milan"
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=it"
-  email            : "danilofrancati at gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=uKNYG_QAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "domitilla.magni at unicatt.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  dblp             : "https://dblp.org/pid/231/4539.html"
+  dblp             : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : "http://orcid.org/0000-0002-4639-0636"
+  linkedin         : "https://www.linkedin.com/in/domitilla-magni-75b081161/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5555-6004"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
