@@ -9,16 +9,16 @@ author_profile: true
 ## Editorial Board ##
 ongoing
 
-- **European Management Journal**\
-IF(2023): 7.5, Q1
+- **European Management Journal** - IF(2023): 7.5, Q1, ABS: 2
 
-- **Electronic Commerce Research**\
-IF(2023): 3.7, Q1
+- **Electronic Commerce Research** - IF(2023): 3.7, Q1, ABS: 2
 
-- **Energy Research & Social Science**\
-IF(2023): 6.9, Q1
+- **Energy Research & Social Science** - IF(2023): 6.9, Q1
 
 till 2024
+- **Journal of Intellectual Capital** @Social Media Editor - IF(2023): 6.2; Q1, ABS: 2
+
+- **Journal of Knowledge Management** @Social Media Editor - IF(2023): 6.6; Q1, ABS: 2
 
 
 
