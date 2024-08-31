@@ -9,13 +9,23 @@ author_profile: true
 ## Editorial Board ##
 ongoing
 
-- **European Management Journal** - IF(2023): 7.5, Q1, ABS: 2
-- **Electronic Commerce Research** - IF(2023): 3.7, Q1, ABS: 2
+- **European Management Journal** - IF(2023): 7.5, Q1, ABS/AJG ranking: 2
+
+- **Electronic Commerce Research** - IF(2023): 3.7, Q1, ABS/AJG ranking: 2
+
 - **Energy Research & Social Science** - IF(2023): 6.9, Q1
 
-till 2024
-- **Journal of Intellectual Capital** @Social Media Editor - IF(2023): 6.2; Q1, ABS: 2
-- **Journal of Knowledge Management** @Social Media Editor - IF(2023): 6.6; Q1, ABS: 2
+- **Journal of Knowledge Economy** - IF(2023): 4.0, Q2, ABS/AJG ranking: 1
+
+- **Business Ethics, the Environment & Responsibility** - IF(2023): 3.6, Q1
+
+- **International Journal of Learning and Intellectual Capital** - IF(2023): 1.5, Q3
+
+
+up to 2024
+- **Journal of Intellectual Capital** @Social Media Editor - IF(2023): 6.2; Q1, ABS/AJG ranking: 2
+
+- **Journal of Knowledge Management** @Social Media Editor - IF(2023): 6.6; Q1, ABS/AJG ranking: 2
 
 
 
