@@ -88,7 +88,7 @@ Francesco Caputo, Domitilla Magni, Armando Papa, Christian Corsi\
 
 19. **Aligning firm's value system and open innovation: a new framework of business process management beyond the business model innovation**\
 Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Micera\
-*Business Process Management Journal*, 26(5), pp.999-1020 (2020). DOI: 10.1108/BPMJ-05-2020-0231. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0231/full/html)
+*Business Process Management Journal*, 26(5), pp.999-1020 (2020). DOI: 10.1108/BPMJ-05-2020-0231. ABS/AJG ranking:  [link](https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0231/full/html)
 
 20. **Open innovation and patenting activity in health care**\
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
@@ -145,7 +145,7 @@ Domitilla Magni\
 
 
 ---
-## Blog 
+<!-- ## Blog 
 
 1. **In science and knowledge we trust: L’impatto della ricerca scientifica ai tempi del covid-19**\
 Valentina Cillo, and Domitilla Magni\
@@ -209,4 +209,4 @@ In *Management in a Digital World. Decisions, Production, Communication*, XXVIII
 11. **Co-creazione di valore e territorio: Il caso monumenti aperti**  
 Francesca Cabiddu, Gianluca Vagnani, Monica Pintori, and Domitilla Magni\
 In *Heritage, management e impresa: quali sinergie?*, Cueim Comunicazione, pp.337-351 (2015), University of Molise, Italy\
-[link](https://www.sijm.it/wp-content/uploads/2021/04/CP-TERMOLI-PARTE-I.pdf)
+[link](https://www.sijm.it/wp-content/uploads/2021/04/CP-TERMOLI-PARTE-I.pdf) -->
