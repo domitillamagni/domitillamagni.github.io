@@ -11,8 +11,7 @@ redirect_from:
 **Address:** Faculty of Economics, Via Matera 18, 00182 Rome, Italy\
 **Email:** domitilla.magni at uniecampus.com\
 <a href="https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
-<a href="https://www.linkedin.com/in/domitilla-magni-75b081161/"><i class="fa fa-linkedin-square"></i> Linkedin</a> -
-&nbsp;
+<a href="https://www.linkedin.com/in/domitilla-magni-75b081161/"><span style="color: #0077B5;"><i class="fa fa-linkedin-square"></i> Linkedin</a> -
 <a href="https://orcid.org/my-orcid?orcid=0000-0001-5555-6004"><span style="color: #b2c046;"><i class="ai ai-orcid ai-lg"></i></span> ORCID</a>
 
 ---
