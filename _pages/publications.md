@@ -13,6 +13,7 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 
 ## Journals 
 Selected publications
+<sup><i class="fa fa-envelope"></i> Corresponding author
 
 1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
 Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
@@ -27,7 +28,7 @@ Veronica Scuotto, Domitilla Magni, Tzanidis Theofilos, and Manlio Del Giudice\
 *IEEE Transactions on Engineering Management*, 71, pp.13775-13786 (2024). DOI: 10.1109/TEM.2022.3153395. ABS/AJG ranking: 3 [link](https://ieeexplore.ieee.org/abstract/document/9753676)
 
 4. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\
-Domitilla Magni, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
 *Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084. ABS/AJG ranking: 1 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
 5. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**\
@@ -39,7 +40,7 @@ Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 *Industrial Marketing Management*, 117, pp.481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
 7. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**\
-Domitilla Magni, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
 *International Marketing Review*, 40(4), pp.798-826 (2023). DOI: 10.1108/IMR-12-2021-0366. ABS/AJG ranking: 3 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-12-2021-0366/full/html)
 
 8. **Knowing what you don’t know: a tertiary study on knowledge management**\
@@ -51,19 +52,19 @@ Tachia Chin, Manlio Del Giudice, Assunta Di Vaio, Fabio Fiano, Alexeis Garcia-Pe
 *Journal of Intellectual Capital*, 24(1), pp.1-9 (2023). DOI: 10.1108/JIC-01-2023-393. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-01-2023-393/full/html)
 
 10. **Knowledge management in turbulent times: time-based scenario analysis of vaccinations against COVID-19**\
-Francesco Saverio Mennini, Domitilla Magni, Lucia Michela Daniele, and Giampiero Favato\
+Francesco Saverio Mennini, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Lucia Michela Daniele, and Giampiero Favato\
 *Journal of Knowledge Management*, 26(11), pp.71-88 (2022). DOI: 10.1108/JKM-09-2021-0710. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html)
 
 11. **Shedding light on the impact of financial literacy for corporate social responsibility during the COVID-19 crisis: managerial and financial perspectives**\
-Gian Paolo Stella, Enrico Maria Cervellati, Domitilla Magni, Valentina Cillo, and Armando Papa\
+Gian Paolo Stella, Enrico Maria Cervellati, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Valentina Cillo, and Armando Papa\
 *Management Decision*, 60(10), pp.2801-2823 (2022). DOI: 10.1108/MD-12-2021-1681. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/MD-12-2021-1681/full/html)
 
 12. **Grassroot processes of knowledge sharing to build social innovation capabilities**\
-Monica Fait, Domitilla Magni, Mirko Perano, Massimiliano Farina Briamonte, and Pasquale Sasso\
+Monica Fait, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Mirko Perano, Massimiliano Farina Briamonte, and Pasquale Sasso\
 *Journal of Knowledge Management*, 27(5), pp.1390-1408 (2022). DOI: 10.1108/JKM-04-2022-0338. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-04-2022-0338/full/html)
 
 13. **A network model approach to enhance knowledge sharing for internationalization readiness of SMEs**\
-Domitilla Magni, Roberto Chierici, Monica Fait, and Kelly Lefebvre\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Roberto Chierici, Monica Fait, and Kelly Lefebvre\
 *International Marketing Review*, 39(3), pp.626-652 (2022). DOI: 10.1108/IMR-03-2021-0110. ABS/AJG ranking: 3 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-03-2021-0110/full/html)
 
 14. **Evaluating fashion retailers' intellectual capital: key money as a part of customer capital**\
@@ -79,15 +80,15 @@ Veronica Scuotto, Domitilla Magni, Rosa Palladino, and Melita Nicotra\
 *Technological Forecasting and Social Change*, 174 (2022). DOI: 10.1016/j.techfore.2021.121234. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162521006673)
 
 17. **Employees’ acceptance of wearable devices: Towards a predictive model**\
-Domitilla Magni, Veronica Scuotto, Alberto Pezzi, and Manlio Del Giudice\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Veronica Scuotto, Alberto Pezzi, and Manlio Del Giudice\
 *Technological Forecasting and Social Change*, 172 (2021). DOI: 10.1016/j.techfore.2021.121022. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162521004546)
 
 18. **Knowledge hiding in socioeconomic settings: matching organizational and environmental antecedents**\
-Francesco Caputo, Domitilla Magni, Armando Papa, Christian Corsi\
+Francesco Caputo, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Armando Papa, Christian Corsi\
 *Journal of Business Research*, 135, pp.19-27 (2021). DOI: 10.1016/j.jbusres.2021.06.012. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0148296321004136)
 
 19. **Aligning firm's value system and open innovation: a new framework of business process management beyond the business model innovation**\
-Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Micera\
+Bisan Abdulkader, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Valentina Cillo, Armando Papa, and Roberto Micera\
 *Business Process Management Journal*, 26(5), pp.999-1020 (2020). DOI: 10.1108/BPMJ-05-2020-0231. ABS/AJG ranking:  [link](https://www.emerald.com/insight/content/doi/10.1108/BPMJ-05-2020-0231/full/html)
 
 20. **Open innovation and patenting activity in health care**\
@@ -98,7 +99,7 @@ Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 
 ---
 
-## Chapters
+<!-- ## Chapters
 
 1. **Revolutionizing Healthcare: Unveiling the Transformative Power of Chatbots Through a Systematic Literature Review**\
 Domitilla Magni\
@@ -143,7 +144,7 @@ Domitilla Magni\
 
 2. **Profit smoothing: Verso un approccio strategico del ruolo del profitto. Implicazioni manageriali**\
 Domitilla Magni\
-(2016). Edizioni Accademiche Italiane. ISBN: 3330778296  [link](https://my.edizioni-ai.com/catalog/details//store/it/book/978-3-330-77829-0/profit-smoothing-verso-un-approccio-strategico-del-ruolo-del-profitto)
+(2016). Edizioni Accademiche Italiane. ISBN: 3330778296  [link](https://my.edizioni-ai.com/catalog/details//store/it/book/978-3-330-77829-0/profit-smoothing-verso-un-approccio-strategico-del-ruolo-del-profitto) -->
 
 
 ---
