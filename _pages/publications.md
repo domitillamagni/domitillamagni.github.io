@@ -15,11 +15,11 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 Selected publications
 
 1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
-Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni<sup><i class="fa fa-envelope"></i></sup>\
+Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
 *Business Strategy and the Environment*, To appear. ABS/AJG ranking: 3
 
 2. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
-Domitilla Magni, Rosa Palladino, Armando Papa, and Patrice Cailleba\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Rosa Palladino, Armando Papa, and Patrice Cailleba\
 *Asia Pacific Journal of Management*, To appear. DOI: 10.1007/s10490-022-09813-0. ABS/AJG ranking: 3 [link](https://link.springer.com/article/10.1007/s10490-022-09813-0)
 
 3. **Chief digital officer and organizational creativity toward digitalization**\
