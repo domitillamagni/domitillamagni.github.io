@@ -18,12 +18,12 @@ redirect_from:
 ---
 
 ### About Me ###
-Since October 2024, I have been serving as an Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).
+Since October 2024, I have been serving as Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).
 Prior to this, I held several academic positions:
 - From October 2022 to September 2024 I was Associate Professor in Management and Marketing at eCampus University.
-- From May to September 2022, I was appointed as a Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as a Junior Assistant Professor at the same institution.
+- From May to September 2022, I was appointed as Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as Junior Assistant Professor at the same institution.
 - From May 2021 to February 2022, I was a Junior Assistant Professor at Roma Tre University, where I also worked as a Postdoctoral Researcher from February 2018 to February 2021.
-- My academic journey began as a Ph.D. student at Sapienza University of Rome, where I studied ([Management, Banking and Commodity Sciences](https://phd.uniroma1.it/web/MANAGEMENT,-BANKING-AND-COMMODITY-SCIENCES_nD3518_EN.aspx)) from August 2014 to September 2017 
+- My academic journey began as Ph.D. student at Sapienza University of Rome, where I studied ([Management, Banking and Commodity Sciences](https://phd.uniroma1.it/web/MANAGEMENT,-BANKING-AND-COMMODITY-SCIENCES_nD3518_EN.aspx)) from August 2014 to September 2017 
 
 ### Research Interests ###
 My research interests focuses on Innovation and Technology Management, Sustainability, and Knowledge Management.
