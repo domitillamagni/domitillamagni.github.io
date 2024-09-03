@@ -15,7 +15,7 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 Selected publications
 
 1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
-Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni\
+Sikandar Ali Qalati, Faiza Siddiqui, and <sup*></sup> Domitilla Magni\
 *Business Strategy and the Environment*, To appear. ABS/AJG ranking: 3
 
 2. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
@@ -93,6 +93,8 @@ Bisan Abdulkader, Domitilla Magni, Valentina Cillo, Armando Papa, and Roberto Mi
 20. **Open innovation and patenting activity in health care**\
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 *Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
+
+* Corresponding author
 
 ---
 
