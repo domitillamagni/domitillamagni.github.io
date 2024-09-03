@@ -15,7 +15,7 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 Selected publications
 
 1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
-Sikandar Ali Qalati, Faiza Siddiqui, and <sup*></sup> Domitilla Magni\
+Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup>*</sup>\
 *Business Strategy and the Environment*, To appear. ABS/AJG ranking: 3
 
 2. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
