@@ -96,8 +96,6 @@ Bisan Abdulkader, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Val
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
 *Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
 
-<sup><i class="fa fa-envelope"></i> Corresponding author
-
 ---
 
 <!-- ## Chapters
