@@ -12,9 +12,9 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 ---
 
 ## Journals 
-Selected publications\
+Selected publications
 
-<sup><i class="fa fa-envelope"></i> Corresponding author\
+<sup><i class="fa fa-envelope"></i> Corresponding author
 
 1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
 Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
