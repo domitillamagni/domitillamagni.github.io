@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Office:** 
-**Address:** Faculty of Economics, Largo Agostino Gemelli, 1, 20123 Milan, Italy\
+**Office:** Room C.06 Ex Conventino, Via Necchi, 5 20123 Milan 
+**Address:** Faculty of Economics, Largo Agostino Gemelli, 1, Milan, Italy\
 **Email:** domitilla.magni at unicatt.com\
 <a href="https://scholar.google.com/citations?user=uKNYG_QAAAAJ&hl=it&oi=ao"><i class="ai ai-google-scholar ai-lg"></i> Scholar</a> - 
 <a href="https://www.linkedin.com/in/domitilla-magni-75b081161/"><span style="color: #0077B5;"><i class="fa fa-linkedin-square"></i></span> Linkedin</a> -
