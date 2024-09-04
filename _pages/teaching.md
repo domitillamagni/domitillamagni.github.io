@@ -10,10 +10,10 @@ author_profile: true
 
 ### A.A. 2024-2025 ###
 
-**International Business Management** (9CFU), Master Degree in Management, Catholic University of Milan\
-**Cultural Tourism and Territorial Development** (9CFU), Master degree in Economics and Management of Art, Culture and Entertaiment, Catholic University of Milan\
-**Innovation and R&D Management** (9CFU), Bachelor degree in Economics and Management, Catholic University of Milan\
-**Business Management** (9CFU), Bachelor degree in Economics, Organizations and Markets, Catholic University of Milan
+- **International Business Management** (9CFU), Master Degree in Management, Catholic University of Milan\
+- **Cultural Tourism and Territorial Development** (9CFU), Master degree in Economics and Management of Art, Culture and Entertaiment, Catholic University of Milan\
+- **Innovation and R&D Management** (9CFU), Bachelor degree in Economics and Management, Catholic University of Milan\
+- **Business Management** (9CFU), Bachelor degree in Economics, Organizations and Markets, Catholic University of Milan
 
 ### A.A. 2023-2024 ###
 
