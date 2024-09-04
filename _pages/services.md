@@ -85,11 +85,14 @@ November 2021, Marrakech, Morocco
 
 ### Journals ####
 
-- IEEE Transactions on Information Forensics and Security
-- IEEE Transaction on Dependable and Secure Computing 
-- The Computer Journal 
-- Journal of Systems Architecture
-<!-- - IET Information Security -->
-- Theory of Computing Systems
-- Theoretical Computer Science 
-- Designs, Codes and Cryptography
+- Journal of Business Research
+- Journal of International Management
+- Corporate Social Responsibility and Environmental Management 
+- International Journal of Management Reviews
+- IEEE - Transactions on Engineering Management
+- Technological Forecasting and Social Change
+- International Marketing Review
+- Journal of the Knowledge Economy
+- European Management Review
+- Technology Analysis and Strategic Management
+- Journal of Innovation and Entrepreneurship
