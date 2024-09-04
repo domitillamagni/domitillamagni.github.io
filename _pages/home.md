@@ -31,11 +31,11 @@ I am also interested in Entrepreneurship and Open Innovation.
 
 ### Visiting Professor ###
 Throughout my academic career, I have had the privilege of serving as a Visiting Professor and Visiting Researcher at several prestigious institutions around the world, including:
-- South-Western University of Finance and Economics (China), 2017
-- Montpellier Business School (France), 2018-2020
-- New York University (USA), 2019 
+- Universidad Panamericana (Mexico), 2020-ongoing
 - La Salle University (Mexico), 2020
-- Universidad Panamericana (Mexico), 2020-2024
+- New York University (USA), 2019 
+- Montpellier Business School (France), 2018-2020
+- South-Western University of Finance and Economics (China), 2017
 
 ### Certifications ###
 - Publons Academy peer reviewed certificate. Peer review certification for papers published in Web of Science (WoS).\
