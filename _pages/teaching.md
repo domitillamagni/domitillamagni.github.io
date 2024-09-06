@@ -48,7 +48,6 @@ author_profile: true
 - **Integrated planning of a smart territory** (2CFU), Master in Smart Public Administration, Link Campus University
 - **Analysis of digital competence needs and their development** (2CFU), Master in Smart Public Administration, Link Campus University
 
-
 ### A.A. 2020-2021 ###
 
 - **Business Models** (9CFU), Bachelor degreee in Management, University of Turin
@@ -66,3 +65,33 @@ author_profile: true
 ---
 
 ## International teaching experience
+
+### A.A. 2023-2024 ###
+
+- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+
+### A.A. 2022-2023 ###
+
+- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+
+### A.A. 2021-2022 ###
+
+- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+
+### A.A. 2020-2021 ###
+
+- ***Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Marketing Innovation** (5h), Executive Summer School, Universidad Panamericana, Mexico City (MX)
+- **Luxury Market Fashion** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
+- **Digital Marketing trends & New Customer Culture** (3h), International Week, La Salle University, Mexico City (MX)
+
+### A.A. 2019-2020 ###
+
+- ***Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **New Digital Economy** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
+
+### A.A. 2018-2019 ###
+
+- **Digital Economy and Sustainable Market** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
+- **The Luxury sector in Italy** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
+

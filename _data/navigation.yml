@@ -5,14 +5,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
   # - title: "Talks"
    # url: /talks/    
 
   - title: "Service"
-    url: /services/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /services/   
     
   # - title: "CV"
     # url: /files/cvmodern.pdf
