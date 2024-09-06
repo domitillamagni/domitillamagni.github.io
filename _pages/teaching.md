@@ -68,26 +68,26 @@ author_profile: true
 
 ### A.A. 2023-2024 ###
 
-- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
 
 ### A.A. 2022-2023 ###
 
-- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
 
 ### A.A. 2021-2022 ###
 
-- ***Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Corporate Image and Protocol** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
 
 ### A.A. 2020-2021 ###
 
-- ***Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
 - **Marketing Innovation** (5h), Executive Summer School, Universidad Panamericana, Mexico City (MX)
 - **Luxury Market Fashion** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
 - **Digital Marketing trends & New Customer Culture** (3h), International Week, La Salle University, Mexico City (MX)
 
 ### A.A. 2019-2020 ###
 
-- ***Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
+- **Brand Management** (45h), Summer School, Universidad Panamericana, Mexico City (MX)
 - **New Digital Economy** (7,5h), International Week, Montpellier Business School, Montpellier (FR)
 
 ### A.A. 2018-2019 ###

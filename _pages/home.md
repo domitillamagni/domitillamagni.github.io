@@ -35,9 +35,9 @@ Throughout my academic career, I have had the privilege of serving as a Visiting
 - La Salle University (Mexico), 2020
 - New York University (USA), 2019 
 - Montpellier Business School (France), 2018-2020
-- South-Western University of Finance and Economics (China), 2017.
+- South-Western University of Finance and Economics (China), 2017
 
 ### Certifications ###
-- Publons Academy peer reviewed certificate. Peer review certification for papers published in Web of Science (WoS).
-- HSK4 Chinese Certification. Chinese language certification, level B2. Confucius Institute of Rome.
+- Publons Academy peer reviewed certificate. Peer review certification for papers published in Web of Science (WoS)
+- HSK4 Chinese Certification. Chinese language certification, level B2. Confucius Institute of Rome
 
