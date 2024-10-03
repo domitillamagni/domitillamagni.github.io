@@ -18,7 +18,7 @@ redirect_from:
 ---
 
 ### About Me ###
-From October 2024, I will serve as Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).
+Since October 2024, I am an Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).
 Prior to this, I held several academic positions:
 - From October 2022 to September 2024 I was Associate Professor in Management and Marketing at eCampus University.
 - From May to September 2022, I was appointed as Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as Junior Assistant Professor at the same institution.
