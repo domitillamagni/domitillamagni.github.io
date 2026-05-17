@@ -18,19 +18,19 @@ redirect_from:
 ---
 
 ### About Me ###
-Since October 2024, I am an Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).
+Since October 2024, I am an Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)). Since September 2025, I also hold a Visiting Professorship at Bayes Business School, Faculty of Management, City University of London, where I delivered an invited talk on embodied AI and collaborative learning in professional training. I collaborate closely with the International Training Centre of the ILO (ITCILO, United Nations, Turin) on the governance and organisational implications of embodied AI and robotics.
 Prior to this, I held several academic positions:
 - From October 2022 to September 2024 I was Associate Professor in Management and Marketing at eCampus University.
-- From May to September 2022, I was appointed as Senior Assistant Professor at the University of Catania. Earlier in 2022, from February to May, I served as Junior Assistant Professor at the same institution.
-- From May 2021 to February 2022, I was a Junior Assistant Professor at Roma Tre University, where I also worked as a Postdoctoral Researcher from February 2018 to February 2021.
-- My academic journey began as Ph.D. student at Sapienza University of Rome, where I studied Management, Banking and Commodity Sciences from August 2014 to September 2017 
+- From February to October 2022, I held positions as Researcher and Assistant Professor at the University of Catania.
+- From February 2018 to January 2022, I was Postdoctoral Researcher and Researcher at Roma Tre University.
+- I earned my PhD in Management, Banking and Commodity Sciences at Sapienza University of Rome (2014–2017).
 
 ### Research Interests ###
-My research interests focuses on Innovation and Technology Management, Sustainability, and Knowledge Management.
-I am also interested in Entrepreneurship and Open Innovation.
+My research focuses on AI adoption, knowledge management, digital transformation, and international business. 
 
 ### Visiting Professor ###
 Throughout my academic career, I have had the privilege of serving as a Visiting Professor and Visiting Researcher at several prestigious institutions around the world, including:
+- Bayes Business School (UK), 2025-2026
 - Universidad Panamericana (Mexico), 2020-ongoing
 - La Salle University (Mexico), 2020
 - New York University (USA), 2019 

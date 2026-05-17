@@ -9,20 +9,26 @@ author_profile: true
 ## Editorial Board ##
 ongoing
 
-- **European Management Journal** *Editorial Board* - IF(2023): 7.5, Q1, ABS/AJG ranking: 2
-- **Electronic Commerce Research** *Editorial Board* - IF(2023): 3.7, Q1, ABS/AJG ranking: 2
-- **Energy Research & Social Science** *Editorial Board* - IF(2023): 6.9, Q1
-- **Journal of Knowledge Economy** *Associate Editor* - IF(2023): 4.0, Q2, ABS/AJG ranking: 1
-- **Business Ethics, the Environment & Responsibility** *Editorial Review Board* - IF(2023): 3.6, Q1
-- **International Journal of Learning and Intellectual Capital** *Editorial Board* - IF(2023): 1.5, Q3
+- **Journal of Knowledge Economy** *Associate Editor* - IF(2025): 4.0, Q2, ABS/AJG ranking: 1
+- **European Management Journal** *Editorial Board* - IF(2025): 7.3, Q1, ABS/AJG ranking: 2
+- **Electronic Commerce Research** *Editorial Board* - IF(2025): 4.7, Q1, ABS/AJG ranking: 2
+- **Energy Research & Social Science** *Editorial Board* - IF(2025): 7.4, Q1
+- **Business Ethics, the Environment & Responsibility** *Editorial Review Board* - IF(2025): 4.2, Q1
+- **Humanities and Social Sciences Communications** *Editorial Board* - IF(2025): 3.6, Q1
+- **International Journal of Learning and Intellectual Capital** *Editorial Board* - IF(2025): 1.4, Q3
 
-up to 2024
-- **Journal of Intellectual Capital** *Social Media Editor* - IF(2023): 6.2; Q1, ABS/AJG ranking: 2
-- **Journal of Knowledge Management** *Social Media Editor and *Editorial Board* - IF(2023): 6.6; Q1, ABS/AJG ranking: 2
+## Editorial Board ##
+ongoing
+- **International Journal of Entrepreneurship and Innovation** - IF(2025): 2.2, Q2, ABS/AJG ranking: 2, Special Issue: *"AI-Driven Knowledge Dynamics in Global Entrepreneurship and Innovation: Implications for International Entrepreneurship Ecosystems"*
 
+## Awards ##
+Emerald Literati Award for Excellence — Outstanding Reviewer, Journal of Intellectual Capital, 2021
 ---
 
 ## Program Committees ##
+
+- **20th Multi Conference on Computer Science and Information Systems — DTIM** 
+May 2026, Lisbon, Portugal
 
 - **24th International Conference on Digital Intelligence Technology and Innovative Design**\
 September 2024, Zhengzhou, China
@@ -46,6 +52,10 @@ June 2019, Rome, Italy
 ---
 
 ## Session Chair ##
+
+- **R&D Management Conference** 
+Track: "Threat from within: Tackling internal sabotage to foster R&D creativity and organisational resilience"
+June 2026, Manchester, UK 
 
 - **Lead track chair @5th IEEE International Conference on Technology Management, Operations and Decisions**, 
 Track: “Business transformation”
@@ -74,10 +84,10 @@ April 2022, Rome, Italy
 Track: “Strategic Innovation”
 November 2021, Marrakech, Morocco
 
+## Editor ##
+- **Editor and Publication Chair** — Proceedings of the *3rd International Conference on Applied Economics, Management Science and Social Development (AEMSS 2026)*, Kunming, China
 
-## Reviewer ##
-
-### Journals ####
+## Reviewer Journals ##
 
 - Journal of Business Research
 - Journal of International Management

@@ -12,36 +12,52 @@ You can also find my full articles list on [Google Scholar](https://scholar.goog
 ---
 
 ## Journals 
-Selected publications
+Selected publications (2024-2026)
 
-<sup><i class="fa fa-envelope"></i> Corresponding author
+<sup><i class="fa fa-envelope"></i> Corresponding 
 
-1. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
+1. **Dynamic capabilities configurations in MNEs: An fsQCA exploration across developed and emerging markets**\
+Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
+*International Business Review*, 35(5), 2026. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/pii/S0969593126000466)
+
+2. **Adapting Human Resource Management to Social Change: Enhancing Employee Innovation and Sustainability Outcomes**\
+Sikandar Ali Qalati, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
+*European Management Journal*, To appear, 2026. ABS/AJG ranking: 2 [link](https://www.sciencedirect.com/science/article/pii/S0263237326000198)
+
+3. **Workplace participation and learning behaviour: Does organisational democracy make a difference to knowledge acquisition?**\
+Mojtaba Rezaei, Domitilla Magni, Simona Alfiero, and Elaheh Heydari
+*Review of Managerial Science*, To appear, 2026. ABS/AJG ranking: 2 [link](https://link.springer.com/article/10.1007/s11846-026-00987-1)
+
+4. **From Stakeholder Trust to Value: Linking Sustainable Innovation and Shared Value in Turbulent Environments**\
+Sikandar Ali Qalati, Faiza Siddiqui, Antonella Francesca Cicchiello, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
+*Global Business Review*, To appear, 2026. ABS/AJG ranking: 1 [link](https://journals.sagepub.com/doi/abs/10.1177/09721509261444175)
+
+5. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
 Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
-*Business Strategy and the Environment*, To appear. ABS/AJG ranking: 3
+*Business Strategy and the Environment*, 33(8), pp. 8965-8977, 2024. ABS/AJG ranking: 3 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3962)
 
-2. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
+6. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
 Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Rosa Palladino, Armando Papa, and Patrice Cailleba\
-*Asia Pacific Journal of Management*, To appear. DOI: 10.1007/s10490-022-09813-0. ABS/AJG ranking: 3 [link](https://link.springer.com/article/10.1007/s10490-022-09813-0)
+*Asia Pacific Journal of Management*, 41, pp. 1031–1060, 2024. DOI: 10.1007/s10490-022-09813-0. ABS/AJG ranking: 3 [link](https://link.springer.com/article/10.1007/s10490-022-09813-0)
 
-3. **Chief digital officer and organizational creativity toward digitalization**\
+7. **Chief digital officer and organizational creativity toward digitalization**\
 Veronica Scuotto, Domitilla Magni, Tzanidis Theofilos, and Manlio Del Giudice\
 *IEEE Transactions on Engineering Management*, 71, pp.13775-13786 (2024). DOI: 10.1109/TEM.2022.3153395. ABS/AJG ranking: 3 [link](https://ieeexplore.ieee.org/abstract/document/9753676)
 
-4. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\
+8. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\
 Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
 *Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084. ABS/AJG ranking: 1 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
-5. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**\
+9. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**\
 Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
 *Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
 
-6. **B2B green marketing strategies for European firms: Implications for people, planet and profit**\
+10. **B2B green marketing strategies for European firms: Implications for people, planet and profit**\
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
 *Industrial Marketing Management*, 117, pp.481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
-7. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**\
-Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
+<!-- 7. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**\ -->
+<!-- Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
 *International Marketing Review*, 40(4), pp.798-826 (2023). DOI: 10.1108/IMR-12-2021-0366. ABS/AJG ranking: 3 [link](https://www.emerald.com/insight/content/doi/10.1108/IMR-12-2021-0366/full/html)
 
 8. **Knowing what you don’t know: a tertiary study on knowledge management**\
@@ -54,9 +70,9 @@ Tachia Chin, Manlio Del Giudice, Assunta Di Vaio, Fabio Fiano, Alexeis Garcia-Pe
 
 10. **Knowledge management in turbulent times: time-based scenario analysis of vaccinations against COVID-19**\
 Francesco Saverio Mennini, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Lucia Michela Daniele, and Giampiero Favato\
-*Journal of Knowledge Management*, 26(11), pp.71-88 (2022). DOI: 10.1108/JKM-09-2021-0710. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html)
+*Journal of Knowledge Management*, 26(11), pp.71-88 (2022). DOI: 10.1108/JKM-09-2021-0710. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JKM-09-2021-0710/full/html) -->
 
-11. **Shedding light on the impact of financial literacy for corporate social responsibility during the COVID-19 crisis: managerial and financial perspectives**\
+<!-- 11. **Shedding light on the impact of financial literacy for corporate social responsibility during the COVID-19 crisis: managerial and financial perspectives**\
 Gian Paolo Stella, Enrico Maria Cervellati, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Valentina Cillo, and Armando Papa\
 *Management Decision*, 60(10), pp.2801-2823 (2022). DOI: 10.1108/MD-12-2021-1681. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/MD-12-2021-1681/full/html)
 
@@ -94,7 +110,7 @@ Bisan Abdulkader, Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Val
 
 20. **Open innovation and patenting activity in health care**\
 Beatrice Orlando, Luca Vincenzo Ballestra, Domitilla Magni, Francesco Ciampi\
-*Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html)
+*Journal of Intellectual Capital*, 22(2), pp.384-402 (2020). DOI: 10.1108/JIC-03-2020-0076. ABS/AJG ranking: 2 [link](https://www.emerald.com/insight/content/doi/10.1108/JIC-03-2020-0076/full/html) -->
 
 ---
 
