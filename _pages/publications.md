@@ -42,19 +42,19 @@ Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Rosa Palladino, Arman
 
 7. **Chief digital officer and organizational creativity toward digitalization**\
 Veronica Scuotto, Domitilla Magni, Tzanidis Theofilos, and Manlio Del Giudice\
-*IEEE Transactions on Engineering Management*, 71, pp.13775-13786 (2024). DOI: 10.1109/TEM.2022.3153395. ABS/AJG ranking: 3 [link](https://ieeexplore.ieee.org/abstract/document/9753676)
+*IEEE Transactions on Engineering Management*, 71, pp.13775-13786, 2024. DOI: 10.1109/TEM.2022.3153395. ABS/AJG ranking: 3 [link](https://ieeexplore.ieee.org/abstract/document/9753676)
 
 8. **Digital humanism and artificial intelligence: the role of emotions beyond the human–machine interaction in Society 5.0**\
 Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Giovanna Del Gaudio, Armando Papa, and Valentina Della Corte\
-*Journal of Management History*, 30(2), pp.195-218 (2024). DOI: 10.1108/JMH-12-2022-0084. ABS/AJG ranking: 1 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
+*Journal of Management History*, 30(2), pp.195-218, 2024. DOI: 10.1108/JMH-12-2022-0084. ABS/AJG ranking: 1 [link](https://www.emerald.com/insight/content/doi/10.1108/JMH-12-2022-0084/full/html)
 
 9. **The impact of innovation failure: Entrepreneurship adversity or opportunity?**\
 Veronica Scuotto, Domitilla Magni, Alexeis Garcia-Perez, and Marco Pironti\
-*Technovation*, 131, (2024). DOI: 10.1016/j.technovation.2023.102944. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
+*Technovation*, 131, 2024. DOI: 10.1016/j.technovation.2023.102944. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S0166497223002559)
 
 10. **B2B green marketing strategies for European firms: Implications for people, planet and profit**\
 Theofilos Tzanidis, Domitilla Magni, Veronica Scuotto, and Adnane Maalaoui\
-*Industrial Marketing Management*, 117, pp.481-492 (2024). DOI: 10.1016/j.indmarman.2024.01.018. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
+*Industrial Marketing Management*, 117, pp.481-492, 2024. DOI: 10.1016/j.indmarman.2024.01.018. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/abs/pii/S001985012400018X0)
 
 <!-- 7. **Internationalized knowledge-intensive business service (KIBS) for servitization: a microfoundation perspective**\ -->
 <!-- Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Armando Papa, Veronica Scuotto, and Manlio Del Giudice\
