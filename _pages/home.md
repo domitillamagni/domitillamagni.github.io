@@ -20,7 +20,7 @@ redirect_from:
 ### About Me ###
 Since October 2024, I am an Associate Professor at the Department of Economics and Business Management Sciences of Catholic University of Milan ([website](https://docenti.unicatt.it/ppd2/en/docenti/81444/domitilla-magni/didattica)).\
 Since September 2025, I also hold a Visiting Professorship at Bayes Business School, Faculty of Management, City University of London.\
-Moreover, I collaborate closely with the International Training Centre of the ILO (ITCILO, United Nations, Turin) (https://www.itcilo.org/it) on the governance and organisational implications of embodied AI and robotics.
+Moreover, I collaborate closely with the International Training Centre of the ILO (ITCILO, United Nations, Turin) ([website]) (https://www.itcilo.org/it) on the governance and organisational implications of embodied AI and robotics.
 Prior to this, I held several academic positions:
 - From October 2022 to September 2024 I was Associate Professor in Management and Marketing at eCampus University.
 - From February to October 2022, I held positions as Researcher and Assistant Professor at the University of Catania.
