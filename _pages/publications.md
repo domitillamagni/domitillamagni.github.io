@@ -18,23 +18,23 @@ Selected publications (2024-2026)
 
 1. **Dynamic capabilities configurations in MNEs: An fsQCA exploration across developed and emerging markets**\
 Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
-*International Business Review*, 35(5), 2026. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/pii/S0969593126000466)
+*International Business Review*, 35(5), 2026. DOI: 10.1016/j.ibusrev.2026.102602. ABS/AJG ranking: 3 [link](https://www.sciencedirect.com/science/article/pii/S0969593126000466)
 
 2. **Adapting Human Resource Management to Social Change: Enhancing Employee Innovation and Sustainability Outcomes**\
 Sikandar Ali Qalati, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
-*European Management Journal*, To appear, 2026. ABS/AJG ranking: 2 [link](https://www.sciencedirect.com/science/article/pii/S0263237326000198)
+*European Management Journal*, To appear, 2026. DOI: 10.1016/j.emj.2026.02.003. ABS/AJG ranking: 2 [link](https://www.sciencedirect.com/science/article/pii/S0263237326000198)
 
 3. **Workplace participation and learning behaviour: Does organisational democracy make a difference to knowledge acquisition?**\
-Mojtaba Rezaei, Domitilla Magni, Simona Alfiero, and Elaheh Heydari
-*Review of Managerial Science*, To appear, 2026. ABS/AJG ranking: 2 [link](https://link.springer.com/article/10.1007/s11846-026-00987-1)
+Mojtaba Rezaei, Domitilla Magni, Simona Alfiero, and Elaheh Heydari\
+*Review of Managerial Science*, To appear, 2026. DOI: 10.1007/s11846-026-00987-1. ABS/AJG ranking: 2 [link](https://link.springer.com/article/10.1007/s11846-026-00987-1)
 
 4. **From Stakeholder Trust to Value: Linking Sustainable Innovation and Shared Value in Turbulent Environments**\
 Sikandar Ali Qalati, Faiza Siddiqui, Antonella Francesca Cicchiello, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
-*Global Business Review*, To appear, 2026. ABS/AJG ranking: 1 [link](https://journals.sagepub.com/doi/abs/10.1177/09721509261444175)
+*Global Business Review*, To appear, 2026. DOI: 10.1177/09721509261444175. ABS/AJG ranking: 1 [link](https://journals.sagepub.com/doi/abs/10.1177/09721509261444175)
 
 5. **Senior Management's Sustainability Commitment and Environmental Performance: Revealing the role of Green Human Resource Management Practices**\
 Sikandar Ali Qalati, Faiza Siddiqui, and Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>\
-*Business Strategy and the Environment*, 33(8), pp. 8965-8977, 2024. ABS/AJG ranking: 3 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3962)
+*Business Strategy and the Environment*, 33(8), pp. 8965-8977, 2024. DOI: 10.1002/bse.3962. ABS/AJG ranking: 3 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/bse.3962)
 
 6. **Exploring the journey of Responsible Business Model Innovation in Asian companies: A review and future research agenda**\
 Domitilla Magni <sup><i class="fa fa-envelope"></i></sup>, Rosa Palladino, Armando Papa, and Patrice Cailleba\
